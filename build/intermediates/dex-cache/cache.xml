@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/ihashi/AndroidStudioProjects/Projet_mobile/app/build/intermediates/pre-dexed/debug/classes-c9add3289131767616bcc1a06c241e7357474fce.jar"
+        jar="/home/ihashi/AndroidStudioProjects/Projet_mobile/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/home/ihashi/AndroidStudioProjects/Projet_mobile/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-c4ba0f78e356b0ac68dd8bcefa52808f81774dc2.jar"
+        jar="/home/ihashi/AndroidStudioProjects/Projet_mobile/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="/home/ihashi/AndroidStudioProjects/Projet_mobile/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-99417e02953d07e569633639be1f7fedac1a1794.jar"
+        jar="/home/ihashi/Bureau/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+    <item
+        dex="/home/ihashi/AndroidStudioProjects/Projet_mobile/app/build/intermediates/pre-dexed/debug/classes-b5839df768e9fd5ec38322b1c7b7f355f68c739d.jar"
+        jar="/home/ihashi/AndroidStudioProjects/Projet_mobile/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136"/>
+
+</pre-dex-items>
